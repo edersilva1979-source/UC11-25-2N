@@ -178,4 +178,4 @@ Entregar:
 
 3. Organização clara e rastreável entre **requisitos e testes**
 
-# Enviar arquivo para o email: eder.silva1979@gmail.com
+# Enviar arquivo para a Discussão da pasta do exercício
