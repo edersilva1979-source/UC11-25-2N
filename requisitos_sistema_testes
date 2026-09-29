@@ -1,3 +1,4 @@
+
 # Aula: Requisitos de Testes de Sistemas
 
 ## 1. Objetivo da aula
@@ -1361,9 +1362,3 @@ Nosso objetivo não é apenas verificar se o sistema abre.
 Nosso objetivo é verificar se ele realmente faz aquilo que deveria fazer.
 
 ---
-
-# 44. Frase para fecharmos a aula
-
-Um sistema não está pronto apenas porque funciona.
-
-Ele está pronto quando conseguimos demonstrar que atende aos requisitos para os quais foi desenvolvido.
